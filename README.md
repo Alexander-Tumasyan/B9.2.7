@@ -1,3 +1,3 @@
 # install
 
-npm install my_node_example_jquery_B9.2.7
+npm install node_b9.2.7
